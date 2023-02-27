@@ -4,7 +4,6 @@
 <h2> Esse foi um projeto que aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
 <br>
 <h2>Tecnologias utilizadas<h2>
-  <br>
   <h3>*HTML<h3>
   <h3>*CSS<h3>
   <br>
