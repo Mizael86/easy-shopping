@@ -5,11 +5,16 @@
 <br>
 <h2>Tecnologias utilizadas<h2>
   <br>
-  <h3>HTML<h3>
-  <h3>CSS<h3>
+  <h3>*HTML<h3>
+  <h3>*CSS<h3>
   <br>
-  <h3>Versão para desktop<h3>
-
+  <br>
+<h3>Versão para mobile<h3>
+<img src="https://github.com/Mizael86/easy-shopping/blob/master/assets/easy%20mobile.png?raw=true" />     
+ <br>
+ <br> 
+ <br>
+ <br>  
+<h3>Versão para desktop<h3>
 <img src="https://github.com/Mizael86/easy-shopping/blob/master/assets/easy%20desktop.png?raw=true" />
-    <br>
-    <h3>Versão para mobile<h3>
+ 
