@@ -12,7 +12,6 @@
 <img src="https://github.com/Mizael86/easy-shopping/blob/master/assets/easy%20mobile.png?raw=true" />     
  <br>
  <br> 
- <br>
  <br>  
 <h3>Versão para desktop<h3>
 <img src="https://github.com/Mizael86/easy-shopping/blob/master/assets/easy%20desktop.png?raw=true" />
